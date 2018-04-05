@@ -1,9 +1,9 @@
 {
     "require": {
-        "woothee/woothee": "1.0.*",
+        "woothee/woothee": "1.4.*",
         "ua-parser/uap-php": "3.4.*",
-        "browscap/browscap-php": "2.0.*",
-        "devster/ubench": "1.1.*",
-        "crossjoin/browscap": "1.0.*"
+        "browscap/browscap-php": "4.1.*",
+        "devster/ubench": "2.0.*",
+        "crossjoin/browscap": "3.0.*"
     }
 }
